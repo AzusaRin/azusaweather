@@ -1,0 +1,20 @@
+{
+  "name": "azusaweather-client",
+  "version": "1.0.2",
+  "description": "weather",
+  "main": "index.js",
+  "bin": {
+    "weather": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "weather"
+  ],
+  "author": "AzusaRin",
+  "license": "ISC",
+  "dependencies": {
+    "azusaweather": "^1.1.2"
+  }
+}
